@@ -1,0 +1,33 @@
+.form_checkbox {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  margin: 16px 0;
+}
+
+.checkbox_field {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+h2 {
+  text-align: center;
+  margin: 16px 0px;
+}
+
+.save_button_container {
+  display: flex;
+  justify-content: center;
+
+  margin-top: 16px;
+}
+
+.save_button {
+  background-color: #007aff;
+  padding: 10px;
+  border: 1px solid #007aff;
+  color: #fff;
+  border-radius: 8px;
+}
